@@ -1,0 +1,17 @@
+{
+  "name": "私人财务账本",
+  "short_name": "财务账本",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "用于个人记录资产、负债、流水、预算和还款提醒的本地 PWA。",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
